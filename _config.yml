@@ -62,11 +62,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme-name: AWE
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/Michelle-Stille/Michelle-Stille.github.io
+  repository: git@github.com:Michelle-Stille/Michelle-Stille.github.io.git
   branch: master
