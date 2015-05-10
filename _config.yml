@@ -4,11 +4,9 @@
 
 # Site
 title: 浅语静悟
-subtitle:
-description:
-author: Michelle stille
+subtitle: 宁静致远
+author: Michelle Stille
 language: zh-cn
-timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -62,7 +60,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme-name: AWE
+theme-name: hueman
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
